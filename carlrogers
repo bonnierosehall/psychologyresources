@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Carl Rogers Tribute Page</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: "Times New Roman", serif;
+      color: #000080;
+      text-align: center;
+    }
+    .container {
+      width: 760px;
+      margin: auto;
+      border: 2px solid #000080;
+      background-color: #ffffff;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 36px;
+      color: #000080;
+      text-decoration: underline;
+    }
+    h2 {
+      font-size: 24px;
+      color: #004080;
+    }
+    table {
+      width: 100%;
+      margin-top: 20px;
+    }
+    td {
+      vertical-align: top;
+      padding: 10px;
+    }
+    .quote {
+      font-style: italic;
+      border-top: 1px dashed #000080;
+      border-bottom: 1px dashed #000080;
+      margin: 20px;
+      padding: 10px;
+    }
+    .footer {
+      font-size: 12px;
+      color: #555555;
+      margin-top: 20px;
+    }
+    marquee {
+      color: #800000;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    a {
+      color: #0000cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<marquee behavior="scroll" direction="left">🌟 Welcome to the Carl Rogers Tribute Page 🌟</marquee>
+
+<div class="container">
+  <h1>Carl Rogers</h1>
+  <h2>1902–1987</h2>
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carl_Rogers2.jpg/330px-Carl_Rogers2.jpg" alt="Carl Rogers" width="200">
+      </td>
+      <td>
+        <p>Carl Rogers was a pioneering American psychologist and one of the founders of the humanistic approach to psychology. He is best known for his theory of client-centered therapy, emphasizing empathy, genuineness, and unconditional positive regard.</p>
+        <p>Rogers believed in the inherent worth of every individual and the importance of creating a safe therapeutic environment in which a person can grow and self-actualize.</p>
+      </td>
+    </tr>
+  </table>
+
+  <div class="quote">
+    “The curious paradox is that when I accept myself just as I am, then I can change.”<br>
+    — Carl Rogers
+  </div>
+
+  <h2>Core Concepts</h2>
+  <ul style="text-align: left; margin-left: 120px;">
+    <li>Client-Centered Therapy</li>
+    <li>Unconditional Positive Regard</li>
+    <li>Empathy and Congruence</li>
+    <li>Self-Actualization</li>
+    <li>Human Potential Movement</li>
+  </ul>
+
+  <h2>Legacy</h2>
+  <p>Carl Rogers influenced not only psychotherapy but also education, healthcare, conflict resolution, and more. His deep respect for the individual and his trust in the human capacity for growth continue to inspire therapists, educators, and change-makers around the world.</p>
+
+  <div class="footer">
+    <p>✨ Made with appreciation for Carl Rogers' compassionate legacy ✨</p>
+    <p><a href="https://en.wikipedia.org/wiki/Carl_Rogers" target="_blank">Learn more on Wikipedia</a></p>
+  </div>
+</div>
+
+</body>
+</html>
