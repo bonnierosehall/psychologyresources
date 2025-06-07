@@ -15,21 +15,38 @@
       background-color: #ffffff;
       padding: 20px;
       border: 1px solid #cccccc;
+      box-shadow: 3px 3px 6px #aaa;
     }
     h1 {
       text-align: center;
       font-size: 32px;
       color: #003366;
+      margin-bottom: 5px;
     }
     h2 {
       color: #003366;
       border-bottom: 1px solid #ccc;
+      padding-bottom: 4px;
+      margin-top: 30px;
     }
     p {
       line-height: 1.6;
+      font-size: 16px;
     }
     ul {
       margin-left: 20px;
+      font-size: 16px;
+      color: #003366;
+    }
+    marquee {
+      font-family: "Courier New", monospace;
+      font-size: 14px;
+      color: #003366;
+      background-color: #d3dce9;
+      padding: 5px 0;
+      margin-bottom: 20px;
+      border: 1px solid #aac;
+      box-shadow: inset 0 0 5px #ccd;
     }
     .footer {
       font-size: 12px;
@@ -37,9 +54,20 @@
       margin-top: 40px;
       color: #666666;
     }
+    a {
+      color: #003366;
+      text-decoration: underline;
+    }
+    a:hover {
+      color: #0055aa;
+    }
   </style>
 </head>
 <body>
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  Discover the work of Irvin D. Yalom: blending psychology, philosophy, and storytelling.
+</marquee>
 
 <div class="container">
   <h1>Irvin D. Yalom, M.D.</h1>
@@ -82,7 +110,7 @@
 
   <div class="footer">
     This page was lovingly created by a curious mind circa 1996.<br>
-    All titles & dates verified as of 2025.
+    All titles &amp; dates verified as of 2025.
   </div>
 </div>
 
