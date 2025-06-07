@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Irvin D. Yalom - Biography</title>
+  <style>
+    body {
+      background-color: #e6ecf2;
+      font-family: "Times New Roman", serif;
+      color: #000033;
+      margin: 40px;
+    }
+    .container {
+      max-width: 760px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+      border: 1px solid #cccccc;
+    }
+    h1 {
+      text-align: center;
+      font-size: 32px;
+      color: #003366;
+    }
+    h2 {
+      color: #003366;
+      border-bottom: 1px solid #ccc;
+    }
+    p {
+      line-height: 1.6;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    .footer {
+      font-size: 12px;
+      text-align: center;
+      margin-top: 40px;
+      color: #666666;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Irvin D. Yalom, M.D.</h1>
+
+  <h2>About</h2>
+  <p>
+    Irvin D. Yalom is an American psychiatrist, author, and emeritus professor of psychiatry at Stanford University. Born in 1931, Yalom is widely regarded as one of the most influential voices in existential psychotherapy. His work bridges clinical practice and literary narrative, making profound psychological ideas accessible to both professionals and lay readers.
+  </p>
+  <p>
+    Yalom’s approach integrates existential philosophy with psychotherapy, encouraging clients to confront core human concerns: death, freedom, isolation, and meaning. His writing often combines theoretical depth with personal storytelling.
+  </p>
+
+  <h2>Key Contributions</h2>
+  <ul>
+    <li>Pioneered <strong>existential psychotherapy</strong> in modern clinical settings</li>
+    <li>Blended <strong>group therapy theory</strong> with real-world application</li>
+    <li>Popularized psychological concepts through fiction and memoir</li>
+    <li>Emphasized the therapist's authentic presence and relational depth</li>
+  </ul>
+
+  <h2>Selected Works</h2>
+  <p>A list of his most widely read and impactful publications:</p>
+  <ul>
+    <li><em>The Theory and Practice of Group Psychotherapy</em> (1970)</li>
+    <li><em>Existential Psychotherapy</em> (1980)</li>
+    <li><em>Love’s Executioner and Other Tales of Psychotherapy</em> (1989)</li>
+    <li><em>When Nietzsche Wept</em> (1992)</li>
+    <li><em>Lying on the Couch</em> (1996)</li>
+    <li><em>Momma and the Meaning of Life</em> (1999)</li>
+    <li><em>The Gift of Therapy</em> (2001)</li>
+    <li><em>Staring at the Sun: Overcoming the Terror of Death</em> (2008)</li>
+    <li><em>Creatures of a Day</em> (2015)</li>
+    <li><em>A Matter of Death and Life</em> (2021, with Marilyn Yalom)</li>
+  </ul>
+
+  <h2>Style & Influence</h2>
+  <p>
+    Yalom’s writing has shaped generations of therapists. His use of narrative invites readers into the therapy room, making the invisible visible. For many, his work represents a balance of intellectual rigor and human connection.
+  </p>
+
+  <div class="footer">
+    This page was lovingly created by a curious mind circa 1996.<br>
+    All titles & dates verified as of 2025.
+  </div>
+</div>
+
+</body>
+</html>
