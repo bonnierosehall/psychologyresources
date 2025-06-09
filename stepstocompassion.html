@@ -1,69 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Steps to Compassion</title>
   <style>
+    /* Body & page background */
     body {
       font-family: 'Georgia', serif;
-      background-color: #fff8f0;
-      color: #4b3e2d;
+      background-color: #f6f0e7; /* soft cream */
+      color: #5a4632; /* warm medium brown */
       margin: 0;
       padding: 0;
     }
 
+    /* Container with gentle cream background and subtle shadow */
     .container {
-      max-width: 800px;
-      margin: 40px auto;
-      background-color: #fffdf9;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.1);
-      border: 1px solid #f0e4d7;
+      max-width: 750px;
+      margin: 50px auto;
+      background-color: #fbf7f0; /* very light cream */
+      padding: 35px 40px;
+      border-radius: 15px;
+      box-shadow: 0 6px 15px rgba(90, 70, 50, 0.15);
+      border: 1px solid #d9c9b6; /* light brown border */
     }
 
+    /* Main heading */
     h1 {
       text-align: center;
-      color: #d2691e;
-      font-size: 2em;
+      color: #8b5e3c; /* rich warm brown */
+      font-size: 2.4em;
+      margin-bottom: 35px;
+      letter-spacing: 2px;
+      text-shadow: 1px 1px 2px #f0e7dc; /* subtle cream glow */
     }
 
+    /* Subheadings */
     h2 {
-      color: #a0522d;
-      margin-top: 30px;
-      font-size: 1.3em;
+      color: #7a5230; /* medium warm brown */
+      font-weight: normal;
+      margin-top: 35px;
+      font-size: 1.5em;
+      letter-spacing: 1px;
+      text-shadow: 1px 1px 2px #f7f2e7;
     }
 
+    /* Paragraph text */
     p {
-      line-height: 1.6;
+      line-height: 1.7;
+      margin-top: 8px;
+      margin-bottom: 20px;
+      color: #6b5541; /* softer brown for text */
     }
 
+    /* Blockquotes with warm border and italic text */
     blockquote {
       font-style: italic;
-      color: #6b4e3d;
-      border-left: 4px solid #deb887;
-      margin: 20px 0;
-      padding-left: 15px;
+      color: #7f664d;
+      border-left: 5px solid #cbb092; /* soft tan */
+      margin: 22px 0;
+      padding-left: 18px;
+      background-color: #f9f5ef;
+      border-radius: 8px;
+      box-shadow: inset 2px 0 4px rgba(203, 176, 146, 0.3);
     }
 
+    /* Center the image with soft border and rounded corners */
+    .image-center {
+      text-align: center;
+      margin: 35px 0;
+    }
+    .image-center img {
+      width: 300px;
+      border: 8px solid #c7a67e; /* warm caramel brown */
+      border-radius: 15px;
+      box-shadow: 4px 4px 12px rgba(180, 140, 90, 0.25);
+      display: inline-block;
+      transition: box-shadow 0.3s ease;
+    }
+    .image-center img:hover {
+      box-shadow: 6px 6px 20px rgba(180, 140, 90, 0.45);
+    }
+
+    /* Footer styling */
     .footer {
       text-align: center;
       font-size: 0.9em;
-      color: #6b4e3d;
-      margin-top: 40px;
-      padding-top: 20px;
-      border-top: 1px solid #f0e4d7;
+      color: #7a6a5a;
+      margin-top: 50px;
+      padding-top: 15px;
+      border-top: 1px solid #d9c9b6;
+      font-style: italic;
+    }
+
+    /* Responsive text scaling */
+    @media (max-width: 600px) {
+      .container {
+        padding: 25px 20px;
+      }
+      h1 {
+        font-size: 1.9em;
+      }
+      h2 {
+        font-size: 1.3em;
+      }
+      .image-center img {
+        width: 80%;
+      }
     }
   </style>
 </head>
 <body>
   <div class="container">
     <h1>Steps to Compassion</h1>
-    <br>
-    <div style="text-align: center;">
-    <img src="compassion_image.jpg" alt="Compassion" width="300" style="border: 8px solid #a9745f; border-radius: 12px; box-shadow: 3px 3px 8px #ccc;">
+
+    <div class="image-center">
+      <img src="compassion_image.jpg" alt="Compassion" />
     </div>
-    <br>
+
     <h2>1. Awareness</h2>
     <blockquote>“You must first see a person before you can love them.” — Cornel West</blockquote>
     <p>Notice suffering—in yourself or others. Often, we miss this step because we’re distracted or overwhelmed. Begin by slowing down and simply observing.</p>
